@@ -94,6 +94,8 @@
 &kp LS(LEFT_SHIFT)  &trans        &trans        &trans        &trans  &trans      &trans   &trans        &trans  &trans  &trans  &kp F11
 &bt BT_SEL 1        &bt BT_SEL 2  &trans        &trans        &trans  &trans      &trans   &trans                                &kp F12
             >;
+
+            sensor-bindings = <&scroll_up_down>;
         };
 
         NUM {
