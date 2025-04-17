@@ -84,7 +84,7 @@
 &kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &kp BACKSPACE  &kp ENTER  &kp SPACE      &kp RIGHT_SHIFT  &lt 1 ENTER                             &lt 6 DEL
             >;
 
-            sensor-bindings = <&scroll_up_down>, <&inc_dec_kp 0 0>;
+            sensor-bindings = <&scroll_up_down>;
         };
 
         FUNCTION {
